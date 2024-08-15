@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu sou o Thiago Lemes</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">💻🖱️</p>
   <br>
 <div align="center">
