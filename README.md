@@ -1,27 +1,49 @@
-<h1 align="center"> Olá, eu sou o Thiago Lemes</h1>
-<h3 align="center">Software Engineer</h3>
-<p align="center">💻🖱️</p>
-  <br>
-<div align="center">
-  <p align="center">Skills 🧠<p>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-</div>
-  <br>
-<div>
-    <p align="center">Contato</p>
-  <p align="center" style="font-size: 25px">
-    <a href="https://www.linkedin.com/in/thiago--lemes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrorodriguesco" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Thiago Lemes 👋</h1>
+<h3 align="center">Software Engineer · Backend Systems · Distributed Architecture</h3>
+<p align="center">Curitiba, Brazil 🇧🇷 · Open to remote opportunities 🌍</p>
+
+<br>
+
+<p align="center">
+  I build backend systems that handle scale and complexity.<br>
+  Most significant work: a data migration API that processed <strong>400M+ records</strong>,<br>
+  transforming legacy clinical data and integrating with Brazil's national health network (RNDS).<br><br>
+  Currently expanding into <strong>Go</strong> and distributed systems architecture.
 </p>
+
+<div align="center">
+
+<p><strong>Backend Stack</strong></p>
+
+| Kotlin | Java | Spring | Go | PostgreSQL | Docker | Kafka | RabbitMQ | Git |
+|--------|------|--------|----|------------|--------|-------|----------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40"/> |
+
 </div>
 
-  
+<br>
+
+---
+
+### 🔧 What I'm building
+
+**[PayStream](#)** *(in progress)*
+> Payment processing platform with two microservices — Kotlin/Spring Boot for API and auth, Go for concurrent processing, Kafka connecting them. Real distributed architecture, not split CRUD.
+
+---
+
+### 📌 Currently focused on
+
+- 🐹 Learning Go through real projects
+- ☁️ AWS Solutions Architect Associate (SAA-C03)
+- 📐 Distributed systems patterns: idempotency, outbox, circuit breaker
+
+---
+
+### 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago--lemes/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
