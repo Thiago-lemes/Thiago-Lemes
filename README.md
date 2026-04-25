@@ -34,9 +34,9 @@
 
 ### 📌 Currently focused on
 
-- 🐹 Learning Go through real projects
-- ☁️ AWS Solutions Architect Associate (SAA-C03)
-- 📐 Distributed systems patterns: idempotency, outbox, circuit breaker
+-  Learning Go through real projects
+-  AWS Solutions Architect Associate (SAA-C03)
+-  Distributed systems patterns: idempotency, outbox, circuit breaker
 
 ---
 
