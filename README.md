@@ -25,13 +25,6 @@
 
 ---
 
-### 🔧 What I'm building
-
-**[PayStream](#)** *(in progress)*
-> Payment processing platform with two microservices — Kotlin/Spring Boot for API and auth, Go for concurrent processing, Kafka connecting them. Real distributed architecture, not split CRUD.
-
----
-
 ### 📌 Currently focused on
 
 -  Learning Go through real projects
